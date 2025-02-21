@@ -1,14 +1,55 @@
 ### Oii, sou a Thainá 👋
 
-Sou programadora voltada para a área de robótica:
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Mim</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e2e;
+            color: #ffffff;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #282a36;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+        }
+        h1 {
+            color: #ff79c6;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .tech-stack {
+            margin-top: 20px;
+            font-weight: bold;
+            color: #50fa7b;
+        }
+    </style>
+</head>
+<body>
 
-For IA trainment been using YOLOV8 and Cuda.
-Robot Programming in ROS1 AND ROS2
-Computer Vision, Manipulation and Navigation tasks for indsutrial robots
+    <div class="container">
+        <h1>Olá, eu sou uma Programadora de Robótica! 🤖</h1>
+        <p>Trabalho com Inteligência Artificial e Programação de Robôs.</p>
+        
+        <p>Utilizo <strong>YOLOv8</strong> e <strong>CUDA</strong> para treinamento de IA.</p>
+        <p>Experiência em <strong>ROS1</strong> e <strong>ROS2</strong>, visão computacional, manipulação e navegação para robôs industriais.</p>
+        
+        <p class="tech-stack">🚀 Tecnologias: Python | C++ | C#</p>
+    </div>
 
-Python
-CPP
-C#
+</body>
+</html>
 
 
  <div>
