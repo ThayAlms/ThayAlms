@@ -1,6 +1,15 @@
 ### Oii, sou a Thainá 👋
 
-Sou programadora voltada para a área de robótica
+Sou programadora voltada para a área de robótica:
+
+For IA trainment been using YOLOV8 and Cuda.
+Robot Programming in ROS1 AND ROS2
+Computer Vision, Manipulation and Navigation tasks for indsutrial robots
+
+Python
+CPP
+C#
+
 
  <div>
   <a href="https://github.com/rafaballerini">
