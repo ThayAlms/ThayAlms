@@ -1,54 +1,33 @@
 ### Oii, sou a Thainá 👋
 
-<!DOCTYPE html>
-<html lang="pt">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sobre Mim</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #1e1e2e;
-            color: #ffffff;
-            text-align: center;
-            padding: 20px;
-        }
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            background: #282a36;
-            padding: 20px;
-            border-radius: 15px;
-            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
-        }
-        h1 {
-            color: #ff79c6;
-        }
-        p {
-            font-size: 18px;
-            line-height: 1.6;
-        }
-        .tech-stack {
-            margin-top: 20px;
-            font-weight: bold;
-            color: #50fa7b;
-        }
-    </style>
-</head>
-<body>
+# 👩‍💻 Programadora de Robótica 🤖
 
-    <div class="container">
-        <h1>Olá, eu sou uma Programadora de Robótica! 🤖</h1>
-        <p>Trabalho com Inteligência Artificial e Programação de Robôs.</p>
-        
-        <p>Utilizo <strong>YOLOv8</strong> e <strong>CUDA</strong> para treinamento de IA.</p>
-        <p>Experiência em <strong>ROS1</strong> e <strong>ROS2</strong>, visão computacional, manipulação e navegação para robôs industriais.</p>
-        
-        <p class="tech-stack">🚀 Tecnologias: Python | C++ | C#</p>
-    </div>
+🚀 **Trabalho com Inteligência Artificial e Programação de Robôs.**  
+💡 Utilizando **YOLOv8** e **CUDA** para treinamento de IA.  
+🛠️ Experiência em **ROS1** e **ROS2**, visão computacional, manipulação e navegação para robôs industriais.
 
-</body>
+---
+
+## 🛠️ Tecnologias e Ferramentas:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+---
+
+## 📷 Projetos e IA
+🖥️ Trabalhando com visão computacional para **manipulação e navegação de robôs industriais**.  
+🧠 Implementando **redes neurais** para aprendizado de máquina.  
+
+---
+
+## 🌍 Onde me encontrar:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+---
+🚀 _"Transformando código em soluções inteligentes para robótica!"_
+
 </html>
 
 
