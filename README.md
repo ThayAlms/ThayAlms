@@ -2,7 +2,6 @@
 
 Sou programadora voltada para a área de robótica
 
-## Oiii! Eu sou a Rafaella Ballerini 
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThayAlmsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
