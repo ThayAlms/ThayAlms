@@ -5,7 +5,8 @@
 🚀 **Trabalho com Inteligência Artificial e Programação de Robôs.**  
 💡 Utilizando **YOLOv8** e **CUDA** para treinamento de IA.  
 🛠️ Experiência em **ROS1** e **ROS2**.
-🧠 Visão Computacional, Manipulação e Navegação para Robôs Industriais.
+🧠 Visão Computacional, Manipulação e Navegação para Robôs Industriais.  
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas:
@@ -29,16 +30,19 @@
   
   ##
  
-<div> 
-  ## 🌍 Onde me encontrar:
-  <a href="https://instagram.com/thay.alms" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:thaina.alms@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/thaina-almeida-a2b53a208" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+<div style="text-align: center; margin-top: 20px;">
+  <h2>✨ Onde me encontrar ✨</h2>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://instagram.com/thay.alms" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="mailto:thaina.alms@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/thaina-almeida-a2b53a208" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </div>
 </div>
+
 
