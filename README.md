@@ -5,7 +5,7 @@
 🚀 **Trabalho com Inteligência Artificial e Programação de Robôs.**  
 💡 Utilizando **YOLOv8** e **CUDA** para treinamento de IA.  
 🛠️ Experiência em **ROS1** e **ROS2**, visão computacional, manipulação e navegação para robôs industriais.
-
+🧠 Implementando **redes neurais** para aprendizado de máquina. 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas:
@@ -14,19 +14,6 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
-
-## 📷 Projetos e IA
-🖥️ Trabalhando com visão computacional para **manipulação e navegação de robôs industriais**.  
-🧠 Implementando **redes neurais** para aprendizado de máquina.  
-
----
-
-## 🌍 Onde me encontrar:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
----
-🚀 _"Transformando código em soluções inteligentes para robótica!"_
 
 </html>
 
@@ -43,11 +30,11 @@
   ##
  
 <div> 
+ ## 🌍 Onde me encontrar:
   <a href="https://instagram.com/thay.alms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thaina.alms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
