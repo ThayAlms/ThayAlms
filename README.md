@@ -4,7 +4,8 @@
 
 🚀 **Trabalho com Inteligência Artificial e Programação de Robôs.**  
 💡 Utilizando **YOLOv8** e **CUDA** para treinamento de IA.  
-🛠️ Experiência em **ROS1** e **ROS2**, visão computacional, manipulação e navegação para robôs industriais.
+🛠️ Experiência em **ROS1** e **ROS2**.
+visão computacional, manipulação e navegação para robôs industriais.
 🧠 Implementando **redes neurais** para aprendizado de máquina. 
 ---
 
@@ -33,7 +34,7 @@
  ## 🌍 Onde me encontrar:
   <a href="https://instagram.com/thay.alms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thaina.alms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/](https://www.linkedin.com/in/thaina-almeida-a2b53a208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
  
 </div>
