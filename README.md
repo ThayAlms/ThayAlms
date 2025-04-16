@@ -3,7 +3,7 @@
 # 👩‍💻 Programadora de Robótica 🤖
 
 🚀 **Trabalho com Inteligência Artificial e Programação de Robôs.**  
-💡 Utilizando **YOLOv8** e **CUDA** para treinamento de IA.  
+💡 Utilizando **YOLOv8** com **CUDA** para treinamento de IA.  
 🛠️ Experiência em **ROS1** e **ROS2**.
 🧠 Visão Computacional, Manipulação e Navegação para Robôs Industriais.  
 
