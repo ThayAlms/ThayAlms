@@ -4,28 +4,26 @@
 
 🚀 **Trabalho com Inteligência Artificial e Programação de Robôs.**  
 💡 Utilizando **YOLOv8** com **CUDA** para treinamento de IA.  
-🛠️ Experiência em **ROS1** e **ROS2**.
+🛠️ Experiência em **ROS1** e **ROS2**.  
 🧠 Visão Computacional, Manipulação e Navegação para Robôs Industriais.  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 ---
 
 </html>
 
+## 📊 Minhas Estatísticas no GitHub
 
- <div>
-  <a href="https://github.com/rafaballerini">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThayAlms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThayAlms&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThayAlms&layout=compact&langs_count=10&theme=dracula"/>
 </div>
   
   ##
@@ -44,5 +42,3 @@
     </a>
   </div>
 </div>
-
-
