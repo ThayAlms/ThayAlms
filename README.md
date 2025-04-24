@@ -1,6 +1,6 @@
 ### Oii, sou a Thainá 👋
 
-# 👩‍💻 Programadora de Robótica 🤖
+# 👩‍💻 Programadora de Robôs 🤖
 
 🚀 **Trabalho com Inteligência Artificial e Programação de Robôs.**  
 💡 Utilizando **YOLOv8** com **CUDA** para treinamento de IA.  
