@@ -24,6 +24,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThayAlms&theme=dracula)
 ---
 
+## 📊 GitHub Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThayAlms&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThayAlms&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThayAlms&theme=dracula)
+
 ## ✨ Connect with Me
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
   <a href="https://instagram.com/thay.alms" target="_blank">
