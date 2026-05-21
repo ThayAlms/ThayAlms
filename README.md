@@ -1,6 +1,6 @@
 ### Hi, I'm Thainá 👋
 
-# 👩‍💻 Robotics & AI Programmer 🤖
+# 👩‍💻 AI & Robotics Programmer 🤖
 
 🚀 **I specialize in Artificial Intelligence and Robotics Programming.**  
 💡 Experienced with **YOLOv8** and **CUDA** for AI model training.  
