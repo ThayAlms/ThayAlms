@@ -34,14 +34,6 @@
 
 ![Metrics](./metrics.svg)
 
-## 📅 Commit Activity
-
-![Calendar](./metrics.calendar.svg)
-
-## ⏰ Coding Habits
-
-![Habits](./metrics.habits.svg)
-
 ---
 
 ## ✨ Connect with Me
