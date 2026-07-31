@@ -1,6 +1,6 @@
 ### Hi, I'm Thainá 👋
 
-# 🤖 AI & Robotics Engineer | Computer Vision Enthusiast
+# 🤖 AI & Robotics Engineer | Computer Vision AI
 
 🚀 Building perception systems that let robots **see, understand and act** in the real world  
 🎯 Currently deep in **real-time object detection** for industrial robotics applications  
