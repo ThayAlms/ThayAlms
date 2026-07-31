@@ -1,6 +1,6 @@
 ### Hi, I'm Thainá 👋
 
-# 🤖 AI & Robotics Engineer | Computer Vision AI
+# 🤖 AI & Robotics Engineer | Computer Vision Enthusiast
 
 🚀 Building perception systems that let robots **see, understand and act** in the real world  
 🎯 Currently deep in **real-time object detection** for industrial robotics applications  
@@ -30,9 +30,17 @@
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Metrics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayAlms&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
+![Metrics](./metrics.svg)
+
+## 📅 Commit Activity
+
+![Calendar](./metrics.calendar.svg)
+
+## ⏰ Coding Habits
+
+![Habits](./metrics.habits.svg)
 
 ---
 
