@@ -1,32 +1,44 @@
 ### Hi, I'm Thainá 👋
 
-# 👩‍💻 AI & Robotics Programmer 🤖
+# 🤖 AI & Robotics Engineer | Computer Vision Enthusiast
 
-🚀 **I specialize in Artificial Intelligence and Robotics Programming.**  
-💡 Experienced with **YOLOv8** and **CUDA** for AI model training.  
-🛠️ Skilled in **ROS1** and **ROS2** for robotic systems.  
-🧠 Focused on Computer Vision, Manipulation, and Navigation for Industrial Robots.  
+🚀 Building perception systems that let robots **see, understand and act** in the real world  
+🎯 Currently deep in **real-time object detection** for industrial robotics applications  
+🧠 Passionate about **Computer Vision, Autonomous Navigation and Human-Robot Interaction**  
+🛠️ Working across **ROS1/ROS2**, **YOLOv8**, **CUDA-accelerated pipelines**
+
+---
+
+## ⚡ What I'm working on
+
+🦾 Training and deploying **YOLO-based detection models** on quadruped robots (Unitree GO2) with Intel RealSense cameras for real-time safety monitoring in industrial environments  
+📊 Designing dashboards and control interfaces to visualize live AI inference for field operations
 
 ---
 
 ## 🛠️ Technologies & Tools
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS%2FROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThayAlms&theme=dracula)
+## 📊 Most Used Languages
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThayAlms&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThayAlms&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayAlms&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
+
 ---
-
 
 ## ✨ Connect with Me
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+
+<div align="center">
   <a href="https://instagram.com/thay.alms" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -40,4 +52,4 @@
 
 ---
 
-💡 **I create robots that learn, see, and move with purpose. Follow my work for AI, robotics, and innovative projects!**
+💡 *"I build eyes for machines — perception is the first step toward autonomy."*
